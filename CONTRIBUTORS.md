@@ -20,3 +20,4 @@
 -  [@davidoluseun](https://github.com/davidoluseun)
 
 -  [@tooluloope](https://github.com/tooluloope)
+-  [@Isaiah](https://github.com/McZenith)
