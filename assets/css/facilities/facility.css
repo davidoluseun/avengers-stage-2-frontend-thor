@@ -1,0 +1,54 @@
+.nav-list li {
+	margin-right: 40px;
+}
+
+.nav-item a:hover {
+  color: #06a7df !important;
+}
+
+.active {
+	color: #06a7df !important;
+}
+
+.carousel-item {
+	height: 75vh;
+	min-height: 350px;
+	background: no-repeat center center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.carousel-caption{
+  bottom: 45%;
+}
+
+.page-info {
+  color: #06a7df;
+  padding-bottom: 2rem;
+}
+
+.page-info i {
+  margin-right: .5rem;
+}
+
+.card {
+  border: none;
+}
+
+.border-radius {
+  border-radius: 25px;
+}
+
+.bg-color {
+  background-color: #06a7df !important;
+}
+
+.text-black {
+	color: black !important;
+}
+
+footer .nav-item a:hover {
+  color: rgba(255,255,255,.75) !important;
+} 

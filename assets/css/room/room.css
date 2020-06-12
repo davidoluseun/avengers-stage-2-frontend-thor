@@ -1,0 +1,58 @@
+* {
+	font-family: sans-serif, Ubuntu, Lora;
+}
+
+.active {
+	color: #06a7df !important;
+}
+
+.nav-list li {
+	margin-right: 40px;
+}
+
+.nav-item a:hover {
+	color: #06a7df !important;
+}
+
+.col-md-4 a {
+	text-decoration: none;
+}
+
+.footer-icons {
+	margin-left: 46px;
+}
+
+.footer-icons i {
+	margin-right: 20px;
+}
+
+.footer-details a:hover {
+	color: #1fcfc6 !important;
+}
+
+.bar {
+	display: inline-block;
+	width: 1.5em;
+	height: 1.5em;
+	vertical-align: middle;
+	content: "";
+	background: no-repeat center center;
+	background-size: 100% 100%;
+	color: #f4821e;
+}
+
+.details {
+	background: #fff;
+	border-radius: 54px;
+	color: black;
+}
+
+.text-black {
+	color: black !important;
+}
+
+footer .nav-item a:hover {
+    color: rgba(255,255,255,.75) !important;
+} 
+
+
