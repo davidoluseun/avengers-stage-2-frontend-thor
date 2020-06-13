@@ -1,0 +1,42 @@
+
+.home  {
+    padding-left: 18em;
+  }
+  .home  li{
+    padding-left: 5em;
+      }
+  .h1  {
+    word-spacing: 1em;
+      }
+  .bookings  {
+    padding: 1em 1em 1em 1em;
+      }
+  .fa-info-circle {
+    color:lightblue;
+    font-size: 1.5em;
+  } 
+  h4  {
+    text-align: center;
+  }
+  footer li{
+    list-style: none;
+      }
+  .img-fluid  {
+    border-radius: 2em;
+      }
+  footer{
+  background-color: dodgerblue;
+  height: 10em;
+  }
+  
+  .subscribe{
+    background-color: orange;
+      }
+  .email  {
+    padding: 0.25em;
+    
+      }
+      hr{
+    color: white;
+    height: 1em;
+      }

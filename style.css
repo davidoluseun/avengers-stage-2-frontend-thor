@@ -1,0 +1,65 @@
+*{box-sizing: border-box;}
+.pad {
+    Margin-left:4em;
+}
+html,body{height:100%;
+    margin:0;
+    font-size:16px;}
+
+.carousel,.item{height:40vw;}
+.carousel-inner{max-height:40vw;}
+
+.carousel-inner>.item>img {
+    height:100%;
+}
+/* body{
+    margin:0;
+    font:16px;
+} */
+.active > .color {
+    color:#06A7DF;
+    font-weight: 500;
+}
+
+.border{
+    border:solid 5px red;
+}
+
+.width{
+   width:100%;
+    height:10px
+}
+
+.row{
+   
+    margin:10em 0;
+   
+}
+
+.image{
+    border-radius: 5em;
+
+    padding:0 1em
+}
+
+
+.rooms .row .room1{
+    height:20vw;
+
+}
+
+.caption{
+    /* font-weight:bold; */
+    text-align:center;
+    Margin:1em 0;
+    font-size:1.5em;
+    Color:rgba(168, 158, 158, 0.514)
+}
+
+.footer{
+    min-height: 12vw;
+    background-color: #06A7DF;
+    margin: 0;
+    padding:6em 3em
+}
+
