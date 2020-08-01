@@ -1,0 +1,69 @@
+.active {
+	color: #06a7df !important;
+}
+
+.carousel-item {
+	height: 50vh;
+	min-height: 350px;
+	background: no-repeat center center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.carousel-caption{
+	bottom: 45%;
+}
+
+.nav-list li {
+	margin-right: 40px;
+}
+
+.nav-item a:hover {
+	color: #06a7df !important;
+}
+
+.text-color {
+	color: #06a7df !important;
+}
+
+.bg-color {
+	background-color: #06a7df !important;
+}
+
+.bg-image {
+	background: url(../../../img/architecture-hall-hallway-interior-design-53464.jpg);
+	height: 50vh;
+	width: 100vw;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.text-black {
+	color: black !important;
+}
+
+.btn-site {
+	background: #f4821e;
+	color: #fff;
+}
+
+.contact-form {
+	max-width: 768px;
+	margin: 0 auto;
+}
+
+.form-control {
+	background: #E5E5E5;
+}
+
+.form-control:focus {
+	background: #E5E5E5;
+}
+
+footer .nav-item a:hover {
+    color: rgba(255,255,255,.75) !important;
+} 
+
