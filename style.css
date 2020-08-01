@@ -3,6 +3,26 @@
 	font-family: sans-serif, Ubuntu, Lora;
 	}
 
+.custom-btn__1{
+	background-color: #06a7df; color: #ffff
+}
+.custom-btn__2{
+	background-color: #f4821e;
+}
+
+.primary-color{
+	color: #f4821e; 
+	font-weight: bold ;
+}
+.custom-color{
+	color: #06a7df;
+}
+
+
+.bar-icon{
+	color: #f4821e;
+}
+
 .nav-list{
 	/*text-align: center;*/
 	font-weight: bolder!important;
@@ -11,19 +31,43 @@
 	margin-right: 40px;
 	font-size: 20px;
 }
-.nav-item a{
+.header a{
 	color: black!important;
 	
 }
-.nav-item a:hover{
+.header a:hover{
 	color: #1fcfc6!important;
-	
-}
-.col-md-4 a{
-	/*color: #ffff;*/
-	text-decoration: none;
 }
 
+.schedule-select{
+	width: 25%; 
+	border-right: 1px solid black; 
+	padding: 20px
+}
+
+.schedule-date{
+	width: 25%; 
+	border-right: 1px solid black; 
+	padding: 20px;
+}
+.schedule-view{
+	width: 25%; 
+	border-right: 1px solid black; 
+	padding: 20px;  
+	background: #f4821e; 
+	border-radius: 0 54px 54px 0; 
+	color: #ffff
+}
+
+
+
+
+
+
+
+.footer{
+	background: #06a7df;
+}
 .footer-icons{
 	margin-left: 46PX;
 }
